@@ -26,4 +26,4 @@ docker-compose up
 
 ## Configure
 
-To configure the agent, change the NV_API key in the Dockerfile.
+To configure the agent, change the NV_API_KEY key in the Dockerfile.
